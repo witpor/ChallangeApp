@@ -9,7 +9,7 @@ if (sex == "F" && name == "Ewa" && age == 33)
 
 else if (sex != "F" && age < 18)
 {
-    Console.WriteLine("Niepełnoletni Mężczyzna");
+    Console.WriteLine("Niepełnoletni Mężczyzna"); 
 }
 else if (sex == "F" && age < 30)
 {
